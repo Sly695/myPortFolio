@@ -43,7 +43,7 @@ export const homeObjFour = { //COMPETENCES
     lightText: false,
     lightTextDesc: false,
     topLine: 'Compétences',
-    headLine: 'Je suis un développeur MERN',
+    headLine: 'Je suis un Développeur Junior MERN',
     description: `J'ai choisi une formation qui m'a apprit les stacks suivantes :
     MongoDb - Express.js - React.js/Native - Node.js`,
     buttonLabel: 'MERN',
