@@ -29,7 +29,7 @@ const Projects = () => {
                     <ProjectsIcon src={Icon2} />
                     <ProjectsH2>myGallery</ProjectsH2>
                     <ProjectsTitle>Stocker et visualiser vos photos.</ProjectsTitle>
-                    <a href="https://mygallery-appx.herokuapp.com/">myGallery.</a>
+                    <a href="https://mygalleryappx.herokuapp.com/">myGallery.</a>
                 </ProjectsCard>
                 <ProjectsCard>
                     <ProjectsIcon src={Icon3} />
