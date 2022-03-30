@@ -5,8 +5,8 @@ export const homeObjOne = { //APROPOS
     lightTextDesc: true,
     topLine: 'A propos de moi...',
     headLine: `Je m'appelle Sandara,`,
-    description: `Je suis à la recherche d'une première expèrience 
-    professionnelle afin d'acquérir professionalisme et compétences puis à terme devenir développeur senior.`,
+    description: `Je suis à la recherche d'une première expérience 
+    professionnelle afin d'acquérir professionalisme et compétences afin de devenir à terme développeur senior.`,
     buttonLabel: 'Get Started',
     imgStart: false,
     img: require('../../image/svg1.svg').default,
@@ -26,7 +26,7 @@ export const homeObjTwo = { //PARCOURS
     description: 
     `Ancien technicien électronique chez Alstom, j'ai effectué 
     ma reconversion professionnelle grâce au Bootcamp LaCapsule. J'ai choisi
-    le code car il m'anène constammement à de la réflexion, 
+    le code car il m'anène constammement à la réflexion, 
     créativité mais surtout la force de création qu'il offre.`,
     buttonLabel: 'Télécharger mon CV',
     imgStart: true,
