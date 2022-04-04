@@ -40,7 +40,7 @@ const InfoSection = ({
         if(buttonLabel === "Télécharger mon CV"){
             console.log('oui')
             return (
-                window.location.href = 'https://drive.google.com/file/d/1No26dZFd2OYMS3QcKWmoUKqFGvEW2Z-u/view?usp=sharing'
+                window.location.href = 'https://drive.google.com/file/d/1FTV1qrbaQmfWvQ0oLEsCgKYvwOoGP4E4/view?usp=sharing'
             )
         } else if (buttonLabel === "Mon GitHub") {
             return (
